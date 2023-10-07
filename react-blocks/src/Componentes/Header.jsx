@@ -1,10 +1,10 @@
 import { Component } from "react";
 import "../reactBlocks.css"
 
-class Header extends Component{
-    render () {
+class Header extends Component {
+    render() {
         return (
-            <div className="header"/>
+            <div className="header" />
         );
     }
 }
