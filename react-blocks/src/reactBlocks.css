@@ -1,0 +1,49 @@
+.App {
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+    padding: 15px;
+}
+
+.App-row{
+    display: flex;
+    margin-top: 15px;
+}
+
+.header {
+    height: 150px;
+    background-color: green;
+}
+
+.navigation {
+    height: 300px;
+    width: 200px;
+    background-color: blue;
+    margin-right: 15px;
+}
+
+.subcont{
+    display: flex;
+}
+
+.main {
+    height: 400px;
+    width: 715px;
+    background-color: red;
+    padding-left: 20px;
+}
+
+.subcontent {
+    height: 200px;
+    width: 210px;
+    background-color: yellow;
+    margin-right: 14px;
+    margin-top: 15px;
+}
+
+.advertisement {
+    height: 120px;
+    width: 659px;
+    background-color: purple;
+    margin-top: 15px;
+}
